@@ -1,0 +1,2 @@
+0 Maskesiz
+1 Maskeli
